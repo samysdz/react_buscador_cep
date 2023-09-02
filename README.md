@@ -1,1 +1,2 @@
-Buscador de cep
+Buscador de CEP
+Utilizando react
